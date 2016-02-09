@@ -1,0 +1,1 @@
+﻿define(["AppSwitcher/AppSwitcher", "ProfileMenu/ProfileMenu", "formatstring/widget/formatstring"], {});
